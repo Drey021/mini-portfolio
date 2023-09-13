@@ -129,16 +129,20 @@ body {
 	background: #06c185;
 }
 
-.redes-sociais .instagram {
-	background: #f3028f;
+.redes-sociais .LinkedIn {
+	background: #023af3;
 }
 
-.redes-sociais .Faceboock {
-	background: #1d87bd;
+.redes-sociais .WhatsApp {
+	background: #a4c639;
 }
 
 .redes-sociais .github {
 	background: #545454;
+}
+
+.redes-sociais .gmail {
+	background: #db4a39;
 }
 
 .redes-sociais a:hover {
