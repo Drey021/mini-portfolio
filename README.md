@@ -1,7 +1,7 @@
 # Projeto Mini Portfólio
 
 <p align="center">
- Meu projeto para a criação de um mini portfólio, com informações pessoais e links de redes sociais, que pode me ajudar a encontrar um emprego. <a href="https://drey021.github.io/mini-portfolio/" target="_blank">"Meu Portifolio"</a>,realizado com HTML, CSS e JavaScript.
+ Meu projeto para a criação de um mini portfólio, com informações pessoais e links de redes sociais, que pode me ajudar a encontrar um emprego. <a href="https://drey021.github.io/mini-portfolio/" target="_blank">"Meu Portifolio"</a>.
 </p>
 
 
